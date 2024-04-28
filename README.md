@@ -93,7 +93,7 @@ To run this project locally, you need to have the following software installed:
 
    The frontend server should now be running on `http://localhost:3000`.
 
-6. Open your web browser and visit `http://localhost:3000` to access the Organica application.
+6. Open your web browser and visit `http://localhost:3000` to access the application.
 
 
 
